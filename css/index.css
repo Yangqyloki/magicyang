@@ -268,7 +268,7 @@ img#home_photo2 {
 	z-index: 99;
 }
 #home_info_box {
-	border-top: 2px solid #ccc;
+	border-top: 1px solid #bd9f28;
 	width: 0;
 	margin: 15px auto;
 }
@@ -365,7 +365,7 @@ img#home_photo2 {
 	display: block;
 	content: "";
 	position: absolute;
-	background: #ccc;
+	background: #000;
 	height: 2px;
 	width: 90px;
 	bottom: 25px;
