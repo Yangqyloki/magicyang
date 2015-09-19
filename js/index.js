@@ -9,17 +9,17 @@
 			}
 			$("#skill_info").append("<p>"+data.skill_info+"</p>");
 			$(".skill_int").append("<ul></ul>");
-			for(var i in data.seo){
-				$("#skill_int1 ul").append("<li>"+data.seo[i]+"</li>");
+			for(var i in data.cpp){
+				$("#skill_int1 ul").append("<li>"+data.cpp[i]+"</li>");
 			}
-			for(var i in data.html){
-				$("#skill_int2 ul").append("<li>"+data.html[i]+"</li>");
+			for(var i in data.dotnet){
+				$("#skill_int2 ul").append("<li>"+data.dotnet[i]+"</li>");
 			}
-			for(var i in data.css){
-				$("#skill_int3 ul").append("<li>"+data.css[i]+"</li>");
+			for(var i in data.JavaScript){
+				$("#skill_int3 ul").append("<li>"+data.JavaScript[i]+"</li>");
 			}
-			for(var i in data.javascript){
-				$("#skill_int4 ul").append("<li>"+data.javascript[i]+"</li>");
+			for(var i in data.security){
+				$("#skill_int4 ul").append("<li>"+data.security[i]+"</li>");
 			}
 			$("#exp_info").append("<p>"+data.exp_info+"</p>");
 			for(var i in data.contact_info){
@@ -121,7 +121,7 @@
 			}
 			if(index==6){
 				$("aside a").eq(5).addClass("selected").siblings().removeClass("selected");
-				$("#contact_content h1").after("<div class='title_en'><h2>· I Want Say ·</h2></div>");
+				$("#contact_content h1").after("<div class='title_en'><h2>· I Want ·</h2></div>");
 				$(".title_en").animate({width:"130px"},1000,function(){
 					$(".title_en h2").slideDown(500);
 				});	
