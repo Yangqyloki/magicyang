@@ -1,67 +1,66 @@
 ﻿{
 	"about_info":[
-		"2014年毕业于四川工商学院，就职于四川卓煌企业管理有限公司",
-		"工作之余喜欢钻研web前端技术，对精美的网页尤为敬佩和喜爱",
-		"日新月异的web前沿技术和层出不穷的框架让我既兴奋又期待",
-		"代码强迫症患者，看漂亮的代码对我而言是一种极致享受"
+		"2013年毕业于西南交通大学，现于西南交通大学继续读研深造",
+		"本科阶段工作主要是C/C++编写密码学相关算法",
+		"研究生阶段致力于产业链协同SaaS平台体系结构与服务模式",
+		"代码强迫症患者，写出漂亮的代码对我而言是一种极致享受"
 	],
-	"skill_info":"IT行业的学习需要持之以恒，知识深度与广度都很重要。而前端开发的重中之重就是原生javascript的理解，一直都在不断琢磨《javascript高级程序设计》这本书来内化自己。另外还在不断学习新的知识，如angular.js，node.js，php，MVC框架backbone等等。",
-	"seo":[
-		"了解baidu搜索引擎算法，内外链接等优化细节",
-		"对SEO有较为深刻认识，能够对网站流量和转化率的提升给出建设性的方案",
-		"微博、微信等新媒体的营销和推广",
-		"熟练操作百度,360等PPC后台，了解百度各产品规则"
+	"skill_info":"IT行业的学习需要持之以恒，知识深度与广度都很重要。而软件开发的重中之重就对面向对象的理解，一直都在不断琢磨《C++ primer》这本书来内化自己。另外还在不断学习Web开发相关知识，如JavaScript，HTML5，.NET三层架构等等。",
+	"cpp":[
+		"掌握C++数据结构，熟练使用STL模板库",
+		"对OOP有较为深刻认识，能够处理各自OOP中的复杂问题",
+		"了解MFC库，有图形化界面开发经验",
+		"理解经典算法，能在空间、时间复杂度对程序进行优化"
 	],
-	"html":[
-		"深刻理解Web标准",
-		"熟练运用html标签",
-		"熟悉xml及xhtml标记语言",
-		"了解html5新特性"
+	"dotnet":[
+		"深刻理解.NET三层架构",
+		"熟练运用C#语言进行开发",
+		"熟悉数据库设计及ADO.NET",
+		"掌握ASP.NET标签"
 	],
-	"css":[
-		"熟练运用css及css3新属性,了解响应式设计",
-		"注重浏览器兼容性，了解常见的css hack",
-		"了解bootstrap框架及源码的实现",
-		"了解css预编译器Less及Sass"
-	],
-	"javascript":[
+	"JavaScript":[
+		"能够使用JavaScript给网页增加动态效果",
 		"会用jQuery库",
-		"掌握ajax的运作原理及json数据结构",
-		"注重JavaScript性能优化",
-		"正在不断学习原生JavaScript，了解js闭包等"
+		"了解ajax的运作原理及json数据结构",
+		"正在不断学习原生JavaScript"
 	],
-	"exp_info":"2014年毕业后，在工作之余开始了web前端自学生涯。",
+	"security":[
+		"熟练掌握加密，认证，信息隐藏相关知识",
+		"能够使用OpenSSL库和NTL库开发复杂算法",
+		"有开发DLL和ActiveX实现安全算法与Web项目结合经验",
+		"对计算机病毒有了解，曾接触过黑客攻防相关知识"
+	],
+	"exp_info":"从2009年入学直到现在，对代码的热情从未消减。",
 	"exp_list_left1":[
-		"<dt>四川工商学院</dt>",
-		"<p class='exp_list_time'>2010年9月~2014年6月</p>",
-		"<dd>就读<a href='#' class='md-trigger' data-modal='modal-13'>电子工程系</a></dd>",
+		"<dt>西南交通大学</dt>",
+		"<p class='exp_list_time'>2009年9月~2013年6月</p>",
+		"<dd>就读<a href='#' class='md-trigger' data-modal='modal-13'>信息安全专业</a></dd>",
 		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>计算机二级c语言证书</a></dd>",
-		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>计算机四级网络工程师证书</a></dd>",
-		"<dd>通过<a href='#' class='md-trigger' data-modal='modal-13'>Cisco Certified Network Associate（CCNA）认证</a></dd>",
+		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>CET-6</a></dd>",
+		"<dd>通过<a href='#' class='md-trigger' data-modal='modal-13'>苏北数学建模联赛三等奖</a></dd>",
 		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>机动车驾驶证c1</a></dd>"
 	],
 	"exp_list_left2":[
-		"<dt>壹零陆文化传播有限责任公司</dt>",
-		"<p class='exp_list_time'>2014年3月~2014年9月</p>",
-		"<dd>（实习）网络部</dd>",
-		"<dd>负责网站后台维护，微博、微信等新媒体创意撰写，营销和推广</dd>",
-		"<dd>负责百度PPC后台调整</dd>",
-		"<dd>获得<a href='#' class='md-trigger' data-modal='modal-13'>最佳新人奖</a></dd>",
-		"<dd>开始了解到web前端这门技术，产生极大的兴趣</dd>"
+		"<dt>成都国龙信息工程有限公司</dt>",
+		"<p class='exp_list_time'>2014年5月~2014年10月</p>",
+		"<dd>（实习）SaaS平台部</dd>",
+		"<dd>参与ASP.NET项目“中国铁建重工集团盾构机采购系统”开发。</dd>",
+		"<dd>学习WebForm三层架构、JavaScript、Asp.Net页面生命周期，独立完成Model层部分模块编码。</dd>",
+		"<dd>因工作接触，对多租户的产业链协同SaaS平台体系结构和服务模式有一定认识。</dd>"
 	],
 	"exp_list_left3":[
-		"<dt>四川卓煌企业管理有限公司</dt>",
-                "<p class='exp_list_time'>2014年9月~现在</p>",
-                "<dd>管理部</dd>",
-                "<dd>负责官网框架建设，后台维护</dd>",
-                "<dd>负责百度竞价操作及seo优化</dd>",
-                "<dd>同期工作之余开始<a href='#' class='md-trigger' data-modal='modal-13'>系统性的自学web前端各项技术</a></dd>"
-	],
+		"<dt>四川省现代服务科技研究院</dt>",
+                "<p class='exp_list_time'>2014年10月~2015年10月</p>",
+                "<dd>参与项目“汽车及零部件中小企业产业链协同平台”开发。</dd>",
+                "<dd>完成基于JQuer的动态美观的的后台管理框架初形。</dd>",
+                "<dd>独立开发“广告展示”“系统邮件”两个ascx用户控件。</dd>",
+		"<dd>根据需求进行开发，完成共计23个子模块代码编写。</dd>",
+                "<dd>研究中小型企业SaaS平台中业务单据的安全问题，改进并实现基于超椭圆曲线中双线性对的无证书数字签密方案。</dd>"	],
 	"contact_info":[
 		"学习是一个充实愉悦的过程",
-		"前端更贴近用户，这种体验非常美妙",
-		"热爱F2E，也热爱一切美好的事物",
-		"行路有良友，便是捷径",
-		"带上我吧，一起看到更大的世界"
+		"工作更是对学习成果的检阅和对自身的挑战",
+		"热爱软件开发，也热爱一切美好的事物",
+		"好的企业，更是我大展身手的舞台",
+		"带上我吧，带我看更大的世界"
 	]
 }
