@@ -104,7 +104,7 @@
 			}
 			if(index==5){
 				$("aside a").eq(4).addClass("selected").siblings().removeClass("selected");
-				$("#demo_content h1").after("<div class='title_en'><h2>· Demo ·</h2></div>");
+				$("#demo_content h1").after("<div class='title_en'><h2>· Project ·</h2></div>");
 				$(".title_en").animate({width:"130px"},1000,function(){
 					$(".title_en h2").slideDown(500);
 				});	
@@ -121,7 +121,7 @@
 			}
 			if(index==6){
 				$("aside a").eq(5).addClass("selected").siblings().removeClass("selected");
-				$("#contact_content h1").after("<div class='title_en'><h2>· Contact me ·</h2></div>");
+				$("#contact_content h1").after("<div class='title_en'><h2>· I Want ·</h2></div>");
 				$(".title_en").animate({width:"130px"},1000,function(){
 					$(".title_en h2").slideDown(500);
 				});	
@@ -160,9 +160,9 @@
 //顶部标题文字切换
 	$("#header_p").mouseover(function(){
 		$("#header_p1").html("Resume");
-		$("#header_p2").html("前端工程师");
+		$("#header_p2").html("程序猿");
 	}).mouseout(function(){
-		$("#header_p1").html("F2E");
+		$("#header_p1").html("杨擎宇");
 		$("#header_p2").html("个人简历");	
 	})
 //顶部导航取消
