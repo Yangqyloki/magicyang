@@ -159,8 +159,8 @@
 });
 //顶部标题文字切换
 	$("#header_p").mouseover(function(){
-		$("#header_p1").html("Resume");
-		$("#header_p2").html("程序猿");
+		$("#header_p1").html("程序猿");
+		$("#header_p2").html("Resume");
 	}).mouseout(function(){
 		$("#header_p1").html("杨擎宇");
 		$("#header_p2").html("个人简历");	
