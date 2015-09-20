@@ -281,6 +281,7 @@ img#home_photo2 {
 	display: none;
 	width: 800px;
 	text-align: center;
+	font-size: 14px;
 }
 #home_info1 {
 	font-size: 20px;
@@ -466,6 +467,7 @@ img#home_photo2 {
 }
 #skill_info p {
 	text-align: center;
+	font-size:14px;
 }
 #skill_list {
 	margin: 20px auto;
@@ -596,6 +598,7 @@ img#home_photo2 {
 }
 #exp_info p {
 	text-align: center;
+	font-size:14px;
 }
 #exp_list_slider {
 	width: 1000px;
