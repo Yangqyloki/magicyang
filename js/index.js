@@ -121,7 +121,7 @@
 			}
 			if(index==6){
 				$("aside a").eq(5).addClass("selected").siblings().removeClass("selected");
-				$("#contact_content h1").after("<div class='title_en'><h2>· I Want ·</h2></div>");
+				$("#contact_content h1").after("<div class='title_en'><h2>· I Wanna Say ·</h2></div>");
 				$(".title_en").animate({width:"130px"},1000,function(){
 					$(".title_en h2").slideDown(500);
 				});	
