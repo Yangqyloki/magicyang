@@ -124,7 +124,7 @@ nav li {
 nav li a {
 	padding: 25px 0;
 	position: relative;	
-	color: #666;
+	color: #000;
 }
 nav li a:after {
 	content: "";
