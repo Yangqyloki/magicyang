@@ -673,15 +673,15 @@ img#home_photo2 {
 }
 .exp_list dd {
 	position: relative;
-	font-size: 14px;
+	font-size: 12px;
 }
 .exp_list dd:before {
 	position: absolute;
-	left: -15px;
-	top: 13px;
+	left: -12px;
+	top: 11px;
 	content: "";
-	width: 4px;
-	height: 4px;
+	width: 3px;
+	height: 3px;
 	background: #000;
 	border-radius: 50%;
 }
